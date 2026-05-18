@@ -1,0 +1,95 @@
+{
+   "checksum": "2868ffa1e660f8fb501dc49715127b8a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13413150080830142",
+            "date_last_used": "13415010072918692",
+            "guid": "90ea0e3f-5a4e-41f5-a9ab-a29339ad2447",
+            "id": "10",
+            "name": "Old building maisonette apartment with wide view at the castle - Apartment in Saarbrücken-Alt-Saarbrücken",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.wg-gesucht.de/wohnungen-in-Saarbruecken-Alt-Saarbruecken.12920319.html#map_container",
+            "visit_count": 2
+         }, {
+            "date_added": "13423600062261998",
+            "date_last_used": "0",
+            "guid": "fb43551d-aa85-4494-b945-9873151f9f4b",
+            "id": "9",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13423600062261476",
+            "date_last_used": "0",
+            "guid": "c8150d57-476d-44dc-8191-54434ff21f50",
+            "id": "8",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13423600062260183",
+            "date_last_used": "0",
+            "guid": "d3ff3270-e82e-4af9-af66-dbd056703434",
+            "id": "7",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://consroute.mcafee.com/app?csrc=browserfavaffid=714clicksrc=browserfav",
+            "visit_count": 0
+         } ],
+         "date_added": "13423600061910001",
+         "date_last_used": "0",
+         "date_modified": "13423600062261998",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13423600061910001",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13423600061910001",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13423600061910001",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "5",
+         "name": "Workspaces",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCOVTL5idAQAAEgAqGENBam5qWmdveXZkRXA4S3RlaEd1OEE9PUgDoAYHEqwBCAoSpwEKHDd5REljb3crYzMrOWUzTkR0TGpMVjI3QmpIRT0SJDkwZWEwZTNmLTVhNGUtNDFmNS1hOWFiLWEyOTMzOWFkMjQ0NxgAIAAoADDUu8rhwzM457vV6rwzQOe71eq8M0ocY2w2V1FlRjBnNHpBWVhmZDhqNHNia1NVMzBzPVoeIhw2K0FLWEI2UlVxZHZJTklIY0p3Y3BtbFFhVFE9ZcjqvxzCPgJgBRKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQzMDVjZDJjMy02MzFmLTU1ZDktODY0OC0wODU2NmRjNTRmNzcYACAAKAAwqvWl6qgwOIL3peqoMECC96XqqDBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkOTdjZmZjMzMtOTVkNy01NTZjLTlkYWQtOTgwMzhkZTc1Yzc4GAAgACgAMKr1peqoMDie+KXqqDBAnvil6qgwShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDJiMjcxMGVkLTU3ZTEtNTQwYS04MDdiLWM1N2VhYjkxYTliORgAIAAoADCq9aXqqDA4ofel6qgwQKH3peqoMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKOAQgFEokBChx3UkJyWkwrNlBBOWF2S2dqTlA3SlhETGNmdnM9EiQ4ODgzMWJiMS0yOTEyLTUxYTQtOWY2NC05ZDE3YmI1OWE1YzYYACAAKAAwxLjapLkzOPy42qS5M0D8uNqkuTNKHG5teDY1c1FEdnhJOFRnRWV2K0ErbnR0b1NuND1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}

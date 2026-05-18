@@ -1,0 +1,5 @@
+2026/05/18-19:47:41.913 ac50 Creating DB C:\Users\rafxg\AppData\Local\Temp\flutter_tools.34c2d0ae\flutter_tools_chrome_device.e2a171e4\Default\Sync Data\LevelDB since it was missing.
+2026/05/18-19:47:41.935 ac50 Reusing MANIFEST C:\Users\rafxg\AppData\Local\Temp\flutter_tools.34c2d0ae\flutter_tools_chrome_device.e2a171e4\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/18-21:18:11.754 ac50 Level-0 table #5: started
+2026/05/18-21:18:11.762 ac50 Level-0 table #5: 170435 bytes OK
+2026/05/18-21:18:11.766 ac50 Delete type=0 #3
