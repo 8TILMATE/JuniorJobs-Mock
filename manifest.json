@@ -1,0 +1,35 @@
+{
+    "name": "Junior Jobs",
+    "short_name": "Junior Jobs",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#07111F",
+    "theme_color": "#0D56B3",
+    "description": "O aplicatie demo pentru stagii, joburi de inceput, VideoCV, CV clasic, comunitate si chat cu recrutori.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
